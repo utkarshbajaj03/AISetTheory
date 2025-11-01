@@ -1,0 +1,3 @@
+The goal is of this project is to make an AI that "understands" the language of sets like how a human mathematician would. Now, there are varying opinions about a human thinks, but a broad consensus is that we tend to have a very good understanding of higher-order features of our sensory input. That's what patterns are - they arise from our ability to detect similarities among seemingly different things by extracting meaningful representations — compressions — from what we perceive.
+
+Let's try a toy model of the brain - a random walk (from one "thought" to the other). Then we can add weights/additional parameters so that it converges on specific values. 
